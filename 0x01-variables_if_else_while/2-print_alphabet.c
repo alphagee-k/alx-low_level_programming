@@ -5,9 +5,9 @@
  */
 int main(void)
 {
-	char alph[26] = 'abcdefghijklmonpqrstuvwxyz'
+	char alph[26] = 'abcdefghijklmonpqrstuvwxyz';
 
-	int i
+	int i;
 
 	for (i = 0; i < 26; i++)
 	{
