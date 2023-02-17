@@ -6,6 +6,7 @@
 int main(void)
 {
 	int n;
+
 	if (n > 0)
 	{
 		printf("n is bigger than 0\n");
