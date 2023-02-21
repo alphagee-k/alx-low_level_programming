@@ -14,7 +14,7 @@ void print_alphabet_x10(void)
 		while (l < 10)
 		{
 			_putchar('\n');
-			c++;
+			l++;
 		}
 		_putchar(c);
 		c++;
