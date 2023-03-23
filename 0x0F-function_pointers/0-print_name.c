@@ -4,7 +4,7 @@
  * print_name - to print a name
  * @name: pointer variable being checked
  * @f: function pointer
- * Return: Name
+ * Return: nothing
  */
 void print_name(char *name, void (*f)(char *))
 {
